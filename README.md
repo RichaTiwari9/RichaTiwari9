@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Richa Tiwari
-- 👀 I’m immensely interested in disruptive technologies
-- 🌱 Currently learning about Blockchains and ZK-Proofs
+- 👀 I love programming and everyday currently is an attempt to get better at it :)
+- 🌱 Learning about Blockchains, ZK-Proofs and web3 development
 - 📫 You can find me on Twitter @TiwariRicha9
 
 <!---
