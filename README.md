@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Richa Tiwari
 - 👀 I love programming and everyday currently is an attempt to get better at it :)
-- 🌱 Learning about Blockchains, ZK-Proofs and web3 development
+- 🌱 Most of my writings can be found on Substack @richatiwari, and some projects are documented here on Github.
 - 📫 You can find me on Twitter @TiwariRicha9
 
 <!---
